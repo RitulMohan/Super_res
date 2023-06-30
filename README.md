@@ -12,4 +12,6 @@ Throughout the training process, the network learns to minimize the discrepancy 
 By incorporating this complex architecture, our neural network demonstrates enhanced capability in image super-resolution tasks. The convolutional, max-pooling, up-sampling, and merging layers work synergistically to extract relevant features, preserve important information, and reconstruct fine details, ultimately yielding high-quality, super-resolved images. This approach contributes to the advancement of image processing techniques and has the potential to significantly benefit fields such as medical imaging, satellite imaging, and surveillance systems.
 
 
-![image](https://github.com/RitulMohan/Super_res/assets/79750424/ff2fa50b-e8a7-443c-bdb8-2654ddc001cd)
+
+
+  ![image](https://github.com/RitulMohan/Super_res/assets/79750424/ff2fa50b-e8a7-443c-bdb8-2654ddc001cd)
