@@ -10,3 +10,6 @@ To upsample the low-resolution features, up-sampling layers are introduced. Thes
 Throughout the training process, the network learns to minimize the discrepancy between the reconstructed high-resolution images and the ground truth high-resolution images. This is achieved through the utilization of loss functions, such as mean squared error or perceptual loss, which quantify the dissimilarity between the predicted and actual high-resolution images. By iteratively adjusting the network's parameters using backpropagation and gradient descent, the model gradually improves its ability to generate high-resolution images that closely resemble the ground truth.
 
 By incorporating this complex architecture, our neural network demonstrates enhanced capability in image super-resolution tasks. The convolutional, max-pooling, up-sampling, and merging layers work synergistically to extract relevant features, preserve important information, and reconstruct fine details, ultimately yielding high-quality, super-resolved images. This approach contributes to the advancement of image processing techniques and has the potential to significantly benefit fields such as medical imaging, satellite imaging, and surveillance systems.
+
+
+![image](https://github.com/RitulMohan/Super_res/assets/79750424/ff2fa50b-e8a7-443c-bdb8-2654ddc001cd)
